@@ -1,4 +1,4 @@
-#HelloCMAKE
+## HelloCMAKE
 
 The simplest program built using CMake in the bash terminal.
 
@@ -20,7 +20,7 @@ The simplest program built using CMake in the bash terminal.
     - make         (run the make file that cmake created)
     - ./HelloCmake (run the program executable created by the make file)
 
-#Next Level Hello
+## Next Level Hello
 
 4.) Add an 'include' and 'build' directories to the project directory.
 
