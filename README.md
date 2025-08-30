@@ -16,6 +16,7 @@ The simplest program built using CMake in the bash terminal.
     #target_include_directories(HelloCMake PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include)
 
 3.) Build with CMake from the cli:
+
     - cmake .      (run cmake from the current directory)
     - make         (run the make file that cmake created)
     - ./HelloCmake (run the program executable created by the make file)
