@@ -27,12 +27,14 @@ The simplest program built using CMake in the bash terminal.
 
 5.) Add 'main.h' to the 'include' directory and use the 'target_include_directories' in 'CMakeLists.txt'.
 
-6.) Remove all old build files and directories so that only the main.cpp and CMAKELists.txt are in the root directory.
+6.) Remove all old build files and directories so that only the main.cpp and CMakeLists.txt are in the root directory.
 
 7.) Build from the build folder:
+
     - cd build
     - cmake ..
     - make
 
 8.) Run program from project directory:
+
     - ./build/HelloCMake
