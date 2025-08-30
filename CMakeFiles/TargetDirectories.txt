@@ -1,3 +1,0 @@
-/mnt/c/Users/Tim/Workspace/Work/CMakePlayground/HelloCMake/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/Tim/Workspace/Work/CMakePlayground/HelloCMake/CMakeFiles/edit_cache.dir
-/mnt/c/Users/Tim/Workspace/Work/CMakePlayground/HelloCMake/CMakeFiles/HelloCMake.dir

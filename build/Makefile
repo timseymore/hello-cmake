@@ -70,7 +70,7 @@ EQUALS = =
 CMAKE_SOURCE_DIR = /mnt/c/Users/Tim/Workspace/Work/CMakePlayground/HelloCMake
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/Users/Tim/Workspace/Work/CMakePlayground/HelloCMake
+CMAKE_BINARY_DIR = /mnt/c/Users/Tim/Workspace/Work/CMakePlayground/HelloCMake/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -99,9 +99,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/Tim/Workspace/Work/CMakePlayground/HelloCMake/CMakeFiles /mnt/c/Users/Tim/Workspace/Work/CMakePlayground/HelloCMake//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/Tim/Workspace/Work/CMakePlayground/HelloCMake/build/CMakeFiles /mnt/c/Users/Tim/Workspace/Work/CMakePlayground/HelloCMake/build//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/Tim/Workspace/Work/CMakePlayground/HelloCMake/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/Tim/Workspace/Work/CMakePlayground/HelloCMake/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

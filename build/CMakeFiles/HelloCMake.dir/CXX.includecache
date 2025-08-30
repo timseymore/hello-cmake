@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/mnt/c/Users/Tim/Workspace/Work/CMakePlayground/HelloCMake/main.cpp
+../include/main.h
 iostream
 -
+
+/mnt/c/Users/Tim/Workspace/Work/CMakePlayground/HelloCMake/main.cpp
+main.h
+/mnt/c/Users/Tim/Workspace/Work/CMakePlayground/HelloCMake/main.h
 
